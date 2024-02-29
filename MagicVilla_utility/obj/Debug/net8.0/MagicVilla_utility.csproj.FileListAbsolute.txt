@@ -1,0 +1,11 @@
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\bin\Debug\net8.0\MagicVilla_utility.deps.json
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\bin\Debug\net8.0\MagicVilla_utility.dll
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\bin\Debug\net8.0\MagicVilla_utility.pdb
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\obj\Debug\net8.0\MagicVilla_utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\obj\Debug\net8.0\MagicVilla_utility.AssemblyInfoInputs.cache
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\obj\Debug\net8.0\MagicVilla_utility.AssemblyInfo.cs
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\obj\Debug\net8.0\MagicVilla_utility.csproj.CoreCompileInputs.cache
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\obj\Debug\net8.0\MagicVilla_utility.dll
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\obj\Debug\net8.0\refint\MagicVilla_utility.dll
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\obj\Debug\net8.0\MagicVilla_utility.pdb
+D:\Saad\DotnetMVC\AspWebApi\MagicVilla\MagicVilla_utility\obj\Debug\net8.0\ref\MagicVilla_utility.dll
